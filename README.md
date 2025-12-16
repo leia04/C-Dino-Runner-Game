@@ -48,7 +48,7 @@ make
 - Quit: `q`
 
 ## Demo
-![Image](https://github.com/user-attachments/assets/92f49d61-cf8a-42c8-9d1f-53c1aedbe254)
+![Image](https://github.com/user-attachments/assets/2eb818f7-046a-47d0-91c2-25c762d1cbb9)
 Full video: [dino_game_video.mp4](demo/dino_game_video.mp4)
 
 ## Tech Stack
